@@ -1,0 +1,63 @@
+--------
+Part 1:-
+--------
+37 AD, Rome
+Caligula was greeted with great eagerness at the time of his accession as emperor. Six months into his reign, the people considered him a noble emperor. But soon after, his true nature began to assert itself once he felt securely in charge. He became erratic and cruel. His depravity and narcissism knew no bounds. He forced his fellow potential rival to commit suicide. He terrorized and humiliated members of the Senate. He committed incest with his sisters. He had protesting Roman citizens murdered and publicly tortured for his pleasure. The Senate grew restless and conspired against him.
+ 
+
+
+
+--------
+Part 2:-
+--------
+You are Cassius Chaerea, Caligula's personal household guard. You are disturbed by the increasingly unbalanced Caligula. Despite being subjected to deliberate provocation and cruelty of Caligula, you continue to serve the household because of your loyalty to Caligula's wife and son who are unmistakably moral, virtuous, and ethical. 
+You are called before the Senate for an unofficial meeting.
+
+Accept (go to Part 3)
+
+
+
+
+--------
+Part 3:-
+--------
+Senators: 'The tyrant is burning Rome to the ground. You have to assassinate him and bring this madness to an end. You will also have to assassinate the tyrant's wife and son who will stake a claim for the crown'.
+
+Refuse (go to Part 4)
+Accept (Assassinate Caligula - go to Part 5)
+
+
+
+
+--------
+Part 4:-
+--------
+Senators: 'As a Roman soldier and citizen, it is your duty to have Rome's best interest at your heart. You will be beheaded for treason if you chose to refuse'.
+
+Refuse (Beheaded - THE END)
+Accept (Assassinate Caligula - go to Part 5)
+
+
+
+
+--------
+Part 5:-
+--------
+Senators: 'Well done, your name shall go down in history for your service and loyalty to the Empire. You will be rewarded with significant money for your endeavor'.
+
+Refuse Reward(go to Part 6)
+Accept Reward(THE END)
+
+
+
+
+--------
+Part 6:-
+--------
+You: 'I have the blood of an innocent child and his mother on my hands. Dont insult me with your money. I did it for Rome'.
+
+THE END
+
+
+
+
